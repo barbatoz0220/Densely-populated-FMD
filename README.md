@@ -2,7 +2,8 @@
 <p align="center">
   <b>Anh Pham H.N., Linh Phung K., Vi Le T.T. and Nga Ly T.</b></span>
 </p>
-Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our research team from *International University - VNU-HCM*
+Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our research team from [International University - VNU-HCM](https://hcmiu.edu.vn/en/)
+
 
 ## Abstract
 Over the last two years, the correct wearing of facial masks in public is still a relevant matter in the fight against the COVID-19 pandemic.
