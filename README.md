@@ -4,12 +4,16 @@
   <b>Anh Pham H.N., Linh Phung K., Vi Le T.T. and Nga Ly T.</b></span>
 </p>
 
+## Introduction
+
 Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our team from [International University - VNU-HCM](https://hcmiu.edu.vn/en/):
 
 - @barbatoz0220 - Anh Pham H.N. as first author
 - @indigoYoshimaru - Linh Phung K. as second author
 - @lttvi - Vi Le T.T. as third author
 - and [Dr. Nga Ly T.](https://it.hcmiu.edu.vn/user/ltnga/) as supervisor
+
+## Overview
 
 Over the last two years, the correct wearing of facial masks in public is still a relevant matter in the fight against the COVID-19 pandemic.
 A popular approach that helps regulate this by global researchers is the application of Deep Learning.
@@ -24,8 +28,9 @@ Performance metrics from the test phase have announced our detector to achieve t
 
 In this repository, you will be able to find:
 
-1. A comparison between 4 classification models (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2) using the Kaggle12K dataset in the folder [exported_model](https://github.com/barbatoz0220/FMD-RICE2021/tree/master/exported_models/trained-on-kaggle12k)
-2. Hellu
+1. A comparison between 4 backbone models for the classification stage (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2)
+using the Kaggle12K dataset in the folder [exported_model](https://github.com/barbatoz0220/FMD-RICE2021/tree/master/exported_models/trained-on-kaggle12k)
+2. A comparison between our proposed model (with ResNet50V2 implemented) and another two (AIZOO and Neuralet) in the file [model_comparison.ipynb](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/model_comparison.ipynb)
 
 ### More documentation and updates will be coming soon
 
