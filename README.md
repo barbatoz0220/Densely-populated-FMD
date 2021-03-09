@@ -6,11 +6,11 @@
 
 ## Introduction
 
-Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our team from [International University - VNU-HCM](https://hcmiu.edu.vn/en/):
+Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our team from [International University - VNU-HCM](https://hcmiu.edu.vn/en/) with:
 
-- @barbatoz0220 - Anh Pham H.N. as first author
-- @indigoYoshimaru - Linh Phung K. as second author
-- @lttvi - Vi Le T.T. as third author
+- @barbatoz0220 - Anh Pham H.N. as 1<sup>st</sup> author
+- @indigoYoshimaru - Linh Phung K. as 2<sup>nd</sup> author
+- @lttvi - Vi Le T.T. as 3<sup>rd</sup> author
 - and [Dr. Nga Ly T.](https://it.hcmiu.edu.vn/user/ltnga/) as supervisor
 
 ## Overview
@@ -30,6 +30,10 @@ In this repository, you will be able to find:
 
 1. A comparison between 4 backbone models for the classification stage (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2)
 using the Kaggle12K dataset in the folder [exported_model](https://github.com/barbatoz0220/FMD-RICE2021/tree/master/exported_models/trained-on-kaggle12k)
+Results on the accuracy and loss of each are expressed through the following figures:
+  - [![MobileNets]]
+  - [![ResNets]]
+
 2. A comparison between our proposed model (with ResNet50V2 implemented) and another two (AIZOO and Neuralet) in the file [model_comparison.ipynb](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/model_comparison.ipynb)
 
 ### More documentation and updates will be coming soon
