@@ -31,8 +31,8 @@ In this repository, you will be able to find:
 1. A comparison between 4 backbone models for the classification stage (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2)
 using the Kaggle12K dataset in the folder [exported_model](https://github.com/barbatoz0220/FMD-RICE2021/tree/master/exported_models/trained-on-kaggle12k)
 Results on the accuracy and loss of each are expressed through the following figures:
-  - [![MobileNets](https://drive.google.com/file/d/1qvjq_m2_MyEXvK3ohnOm5wUyV-F-LISm/view?usp=sharing)]
-  - [![ResNets](https://drive.google.com/file/d/1mp7Q9hDGyj_w0WUBuiCDv3SHSO8RMFhh/view?usp=sharing)]
+- [![MobileNetV1 and MobileNetV2](https://drive.google.com/file/d/1S1FUaXVnG2qAW5pi1liter7bMfHUyvls/view?usp=sharing)]
+- [![ResNetV1 and ResNetV2](https://drive.google.com/file/d/1L8QA1cGVRGKXBlmafxMmLTkPBktAAVbq/view?usp=sharing)]
 
 2. A comparison between our proposed model (with ResNet50V2 implemented) and another two (AIZOO and Neuralet) in the file [model_comparison.ipynb](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/model_comparison.ipynb)
 
