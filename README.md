@@ -42,7 +42,6 @@ Results on the accuracy and loss of each are expressed through the following fig
 - ![MobileNetV1 and MobileNetV2](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/figures/mobilenets_acc_loss.PNG)
 - ![ResNetV1 and ResNetV2](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/figures/resnet_acc_loss.PNG)
 2. A comparison between our proposed model (with ResNet50V2 implemented) and another two (AIZOO and Neuralet) in the file [model_comparison.ipynb](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/model_comparison.ipynb). The following figure illustrates each model's performance on the two test sets. ![model_comparison](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/figures/proposed-aizoo-neuralet.PNG)
-
-The Google Colab file for our proposed model is available at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/indigoYoshimaru/11a0f157ee6813c174b5e2b0eb4a36e0/mask_detector.ipynb)
+3. The Google Colab file for our proposed model is available at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/indigoYoshimaru/11a0f157ee6813c174b5e2b0eb4a36e0/mask_detector.ipynb)
 
 ### More documentation and updates will be coming soon
