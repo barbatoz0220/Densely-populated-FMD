@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fceceb1041167fa55448cc8114d78bd73f337d3b28b02ca8f3ad2263f192cbb
-size 2285
+# Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models - RICE2021
+
+<p align="center">
+  <b>Anh Pham H.N., Linh Phung K., Vi Le T.T. and Nga Ly T.</b></span>
+</p>
+
+Welcome to the official codebase for the research "Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models" by our team from [International University - VNU-HCM](https://hcmiu.edu.vn/en/):
+
+- @barbatoz0220 - Anh Pham H.N. as first author
+- @indigoYoshimaru - Linh Phung K. as second author
+- @lttvi - Vi Le T.T. as third author
+- and [Dr. Nga Ly T.](https://it.hcmiu.edu.vn/user/ltnga/) as supervisor
+
+Over the last two years, the correct wearing of facial masks in public is still a relevant matter in the fight against the COVID-19 pandemic.
+A popular approach that helps regulate this by global researchers is the application of Deep Learning.
+This paper will contribute to the literature in two main aspects:
+
+1. We first compare and contrast the application of four pre-trained models in classification of the specific face mask dataset.
+2. We follow with the proposal of a face mask detector model which combines the state-of-the-art RetinaFace to the localization of faces in densely populated regions and the most prominent classifier obtained from the previous step to divide the faces into three categories: correctly-worn, incorrectly-worn and no-masks-worn.
+
+Performance metrics from the test phase have announced our detector to achieve the best accuracy among all works compared with 94,59% on one test dataset and a less satisfactory 69.6% on another due to certain characteristics of the set.
+
+## Contents
+
+In this repository, you will be able to find:
+
+1. A comparison between 4 classification models (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2) using the Kaggle12K dataset in the folder [exported_model](https://github.com/barbatoz0220/FMD-RICE2021/tree/master/exported_models/trained-on-kaggle12k)
+2. Hellu
+
+### More documentation and updates will be coming soon
+
+The colab file is available at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/indigoYoshimaru/11a0f157ee6813c174b5e2b0eb4a36e0/mask_detector.ipynb)
