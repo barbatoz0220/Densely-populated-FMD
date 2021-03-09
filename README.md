@@ -15,6 +15,4 @@ This paper will contribute to the literature in two main aspects:
 Performance metrics from the test phase have announced our detector to achieve the best accuracy among all works compared with 94,59% on one test dataset and a less satisfactory 69.6% on another due to certain characteristics of the set.
 
 ### More documentation and updates will be coming soon!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17f5hkq5BHIYRq55fmyQsSpng3SFL0gJv/view?usp=sharing)]
-[![Open In Colab](https://drive.google.com/file/d/17f5hkq5BHIYRq55fmyQsSpng3SFL0gJv/view?usp=sharing)]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/indigoYoshimaru/11a0f157ee6813c174b5e2b0eb4a36e0/mask_detector.ipynb)]
