@@ -16,4 +16,5 @@ Performance metrics from the test phase have announced our detector to achieve t
 
 ### More documentation and updates will be coming soon!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17f5hkq5BHIYRq55fmyQsSpng3SFL0gJv/view?usp=sharing]
+[![Open In Colab](https://drive.google.com/file/d/17f5hkq5BHIYRq55fmyQsSpng3SFL0gJv/view?usp=sharing)]
 
