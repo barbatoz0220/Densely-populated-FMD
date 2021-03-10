@@ -34,8 +34,8 @@ Faces classified as Incorrectly-worn by the proposed model:
 - ![incorrect4](https://github.com/barbatoz0220/FMD-RICE2021/blob/master/figures/test_00001137.jpg)
 
 More results are available at: 
- -For Kaggle dataset: (https://drive.google.com/drive/folders/1-NcuMfzLFJMzlM4S_eOjHYdpm38dXVGS?usp=sharing)
- -For MAFA dataset: (https://drive.google.com/drive/folders/183coq12n0vbm0wO4P3r8ECkSouyueWcd?usp=sharing)
+- For Kaggle dataset: (https://drive.google.com/drive/folders/1-NcuMfzLFJMzlM4S_eOjHYdpm38dXVGS?usp=sharing)
+- For MAFA dataset: (https://drive.google.com/drive/folders/183coq12n0vbm0wO4P3r8ECkSouyueWcd?usp=sharing)
 ## Contents
 In this repository, you will be able to find:
 1. A comparison between 4 backbone models for the classification stage (MobileNetV1, MobileNetV2, ResNet50V1, ResNet50V2)
