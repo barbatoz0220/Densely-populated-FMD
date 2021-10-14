@@ -1,4 +1,4 @@
-# Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models - RICE2021
+# Densely Populated Regions Face Masks Localization and Classification Using Deep Learning Models
 
 <p align="center">
   <b>Anh Pham H.N., Linh Phung K., Vi Le T.T. and Nga Ly T.</b></span>
